@@ -1,5 +1,5 @@
 """
-The following program uses the Bisection Method (Binary Search) to find an approximate solution to the root of a polynomial to within the prescribed error given an interval.
+The following program uses the Bisection Method (Binary Search) to find an approximate solution to the root of a function to within the prescribed error given an interval.
 The function (w/ respect to the variable 'x') can be modified within the function 'func_expression'.
 """
 
